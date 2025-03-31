@@ -4,3 +4,9 @@
 .container {
     background-color: pink;
 }
+
+h1{
+    background-color: pink;
+    color:aquamarine;
+    font-size: 12px;
+}
